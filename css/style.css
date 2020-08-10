@@ -1,0 +1,77 @@
+#car-div{
+ animation: 5s linear carmove;
+
+}
+
+@keyframes carmove{
+  from{margin-left: -55px;}
+  to{margin-left:1055px ;}
+
+}
+
+/* #changing-div{
+ background-color: rebeccapurple;
+ width: 100px;
+ height: 100px;
+animation: 5s linear mydivchange;
+
+}
+
+@keyframes  mydivchange{
+from{transform: rotate(120deg);}
+to{transform: rotate(360deg);}
+
+
+
+} */
+
+ /* #main{
+ display: inline-flex;
+ padding-left: 100px;
+
+ }
+
+#div1{
+ width:  200px;
+ height: 200px;
+
+margin: 15px;
+background-color: red;
+animation: 2s  linear alldiv;
+}
+#div2{
+ width: 200px;
+ height: 200px;
+
+margin: 15px;
+background-color:gold;
+animation: 2s  linear alldiv;
+
+
+
+    
+
+   
+   }#div3{
+    width: 200px;
+    height: 200px;
+margin: 15px;
+background-color:blue;
+animation: 2s  linear alldiv;
+
+
+
+
+   
+   }
+
+    @keyframes alldiv{
+        0%{transition: skew(60deg);}
+        25%{transform: skew(90deg);}
+        50%{transform:  skew(180deg);}
+        100%{transform: skew(360deg)}
+
+
+
+    }
+    */
